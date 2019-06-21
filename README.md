@@ -1,5 +1,7 @@
 # PiE-Ink-Name-Badge
 
+Used for my qualifiing work at PPC NTU "KhPI".
+
 Full tutorial here: https://www.instructables.com/id/PiE-Ink-Name-Badge/
 
 Want to decorate your chest with something amazingly dorky? Want to stand out in a crowd? How about earn some serious geek cred, and the wonderment of your peers?
